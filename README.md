@@ -85,9 +85,9 @@ src/
 > 📌capturas de pantalla del proyecto.
 
 
-![Home](https://github.com/user-attachments/assets/e2b68df7-49ae-4a14-8060-08e849a1ffe1)
-![Detalle](https://github.com/user-attachments/assets/a2bedb46-8628-4c19-9e00-a71eb5093d75)
-![Carrito](https://github.com/user-attachments/assets/2170d43a-4ea1-4d09-be1a-0c66d43f56c8)
+![Home](https://github.com/user-attachments/assets/3a6b1a47-e8c7-4138-bd27-ac310ea6ea94)
+![products](https://github.com/user-attachments/assets/df73e040-a7be-433d-95aa-bf2afed6b92b)
+![profile](https://github.com/user-attachments/assets/e1d5e78e-ec31-431e-b843-5a81ee543922)
 
 ---
 
